@@ -3,4 +3,7 @@
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="Macro.pub-void-test">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
 </keymap>

@@ -1,0 +1,10 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Macro.pvtest" />
+      <action id="Macro.pub-void-test">
+        <abbreviation name="pvt" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

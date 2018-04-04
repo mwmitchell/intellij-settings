@@ -1,0 +1,12 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="pub-void-test">
+      <typing text-keycode="80:0;85:0;66:0;76:0;73:0;67:0;32:0;86:0;79:0;73:0;68:0;32:0;84:0;69:0;83:0;84:0;0:1;0:1;0:1">public&amp;#x20;void&amp;#x20;test(){</typing>
+      <action id="EditorEnter" />
+      <action id="EditorUp" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+    </macro>
+  </component>
+</application>

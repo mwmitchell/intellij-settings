@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Cursive Licence" shouldLog="false" />
+  </component>
+</application>

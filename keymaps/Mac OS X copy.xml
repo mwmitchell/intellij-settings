@@ -2,6 +2,16 @@
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="meta left" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="EditorToggleUseSoftWraps">
     <keyboard-shortcut first-keystroke="alt w" />

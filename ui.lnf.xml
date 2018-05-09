@@ -4,5 +4,6 @@
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="13" />
     <option name="MAX_LOOKUP_WIDTH2" value="1324" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
   </component>
 </application>

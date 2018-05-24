@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../fusion-connectors/grpc/client-support/src/main/java/com/lucidworks/fusion/service/client/connectors/ConfigConverter.java [client-support_main]'" />
-    <option name="defaultScopeName" value="File '.../fusion-connectors/grpc/client-support/src/main/java/com/lucidworks/fusion/service/client/connectors/ConfigConverter.java [client-support_main]'" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../fusion-connectors/grpc/client-support/src/main/java/com/lucidworks/fusion/service/client/connectors/ConfigConverter.java [client-support_main]'" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
   </component>
 </application>

@@ -2,6 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../fusion-connectors/connectors/connector-plugin-sdk/src/test/java/com/lucidworks/fusion/connector/plugin/api/processor/DefaultDataProcessorTest.java [connector-plugin-sdk_test]'" />
     <option name="defaultScopeName" value="File '.../fusion-connectors/connectors/connector-plugin-sdk/src/test/java/com/lucidworks/fusion/connector/plugin/api/processor/DefaultDataProcessorTest.java [connector-plugin-sdk_test]'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../fusion-connectors/connectors/connector-plugin-sdk/src/test/java/com/lucidworks/fusion/connector/plugin/api/processor/DefaultDataProcessorTest.java [connector-plugin-sdk_test]'" />
   </component>
 </application>

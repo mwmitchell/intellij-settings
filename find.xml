@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../fusion-connectors/connectors/connector-plugin-sdk/src/test/java/com/lucidworks/fusion/connector/plugin/api/processor/DefaultDataProcessorTest.java [connector-plugin-sdk_test]'" />
-    <option name="defaultScopeName" value="File '.../fusion-connectors/connectors/connector-plugin-sdk/src/test/java/com/lucidworks/fusion/connector/plugin/api/processor/DefaultDataProcessorTest.java [connector-plugin-sdk_test]'" />
-    <option name="SEARCH_SCOPE" value="File '.../fusion-connectors/connectors/connector-plugin-sdk/src/test/java/com/lucidworks/fusion/connector/plugin/api/processor/DefaultDataProcessorTest.java [connector-plugin-sdk_test]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>

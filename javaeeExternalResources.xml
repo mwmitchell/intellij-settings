@@ -1,15 +1,22 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://172.16.11.15/_api/" />
     <ignored-resource url="http://docs.oasis-open.org/ws-sx/ws-trust/200512/" />
     <ignored-resource url="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" />
     <ignored-resource url="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" />
     <ignored-resource url="http://java.sun.com/xml/ns/jaxws" />
     <ignored-resource url="http://schemas.microsoft.com/LiveID/SoapServices/v1" />
     <ignored-resource url="http://schemas.microsoft.com/Passport/SoapServices/PPCRL" />
+    <ignored-resource url="http://schemas.microsoft.com/ado/2007/08/dataservices" />
+    <ignored-resource url="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" />
+    <ignored-resource url="http://schemas.microsoft.com/sharepoint/soap/" />
     <ignored-resource url="http://schemas.xmlsoap.org/soap/envelope/" />
     <ignored-resource url="http://schemas.xmlsoap.org/ws/2004/09/policy" />
     <ignored-resource url="http://schemas.xmlsoap.org/ws/2005/02/trust" />
+    <ignored-resource url="http://www.georss.org/georss" />
+    <ignored-resource url="http://www.opengis.net/gml" />
     <ignored-resource url="http://www.w3.org/2003/05/soap-envelope" />
     <ignored-resource url="http://www.w3.org/2005/08/addressing" />
+    <ignored-resource url="http://www.w3.org/2005/Atom" />
   </component>
 </application>

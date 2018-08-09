@@ -11,6 +11,9 @@
       <value />
     </option>
   </JavaCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="Groovy">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />

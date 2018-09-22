@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../fusion-connectors/connectors/shared/http-client-component [http-client-component]'" />
-    <option name="defaultScopeName" value="Directory '.../fusion-connectors/connectors/shared/http-client-component [http-client-component]'" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../fusion-connectors/connectors/shared/http-client-component [http-client-component]'" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
   </component>
 </application>

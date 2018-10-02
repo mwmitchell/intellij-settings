@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../Apollo/services/lucid-indexing-pipeline-service/src/test/java/com/lucidworks/apollo/pipeline/index/TestHelper.java [lucid-indexing-pipeline-service_test]'" />
-    <option name="defaultScopeName" value="File '.../Apollo/services/lucid-indexing-pipeline-service/src/test/java/com/lucidworks/apollo/pipeline/index/TestHelper.java [lucid-indexing-pipeline-service_test]'" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../Apollo/services/lucid-indexing-pipeline-service/src/test/java/com/lucidworks/apollo/pipeline/index/TestHelper.java [lucid-indexing-pipeline-service_test]'" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
   </component>
 </application>

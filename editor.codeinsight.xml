@@ -1,5 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
     <option name="SHOW_INFERRED_ANNOTATIONS_INLINE" value="true" />
+    <option name="USE_ACCESSORS_IN_EQUALS_HASHCODE" value="true" />
   </component>
 </application>

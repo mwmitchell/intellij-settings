@@ -82,6 +82,8 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general />
+    <general>
+      <unmute-on-stop>true</unmute-on-stop>
+    </general>
   </component>
 </application>

@@ -1,0 +1,6 @@
+<application>
+  <component name="GradleSystemRunningSettings">
+    <option name="preferredTestRunner" value="GRADLE_TEST_RUNNER" />
+    <option name="useGradleAwareMake" value="true" />
+  </component>
+</application>

@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="gradle.init" type="Groovy" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

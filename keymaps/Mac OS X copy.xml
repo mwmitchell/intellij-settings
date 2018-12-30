@@ -16,6 +16,9 @@
   <action id="EditorToggleUseSoftWraps">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="Gradle.OpenProjectCompositeConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl meta alt c" />
+  </action>
   <action id="Macro.pub-void-test">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>

@@ -9,5 +9,6 @@
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="BSP.system.in.process" value="true" />
     <entry key="pants.system.in.process" value="true" />
+    <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
   </component>
 </application>

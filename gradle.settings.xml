@@ -1,5 +1,6 @@
 <application>
   <component name="GradleSystemSettings">
+    <option name="gradleVmOptions" value="-Dgradle.user.home=/Users/mattmitchell/Projects/intellij-composite-build-bug/" />
     <option name="offlineWork" value="true" />
   </component>
 </application>

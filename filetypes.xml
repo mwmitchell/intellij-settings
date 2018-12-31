@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="TestPlugin" type="CLASS" />
+      <mapping pattern="SDKProject" type="CLASS" />
       <mapping pattern="gradle.init" type="Groovy" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
     </extensionMap>

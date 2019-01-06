@@ -5,6 +5,7 @@
       <mapping pattern="SDKProject" type="CLASS" />
       <mapping pattern="gradle.init" type="Groovy" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
+      <mapping ext="gradle--" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

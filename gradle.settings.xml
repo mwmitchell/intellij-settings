@@ -1,6 +1,5 @@
 <application>
   <component name="GradleSystemSettings">
     <option name="gradleVmOptions" value="-Dorg.gradle.daemon=false" />
-    <option name="offlineWork" value="true" />
   </component>
 </application>

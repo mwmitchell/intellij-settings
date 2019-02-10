@@ -1,0 +1,5 @@
+<application>
+  <component name="JrePropertiesCache">
+    <jre homeDir="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home" arch64Bit="true" />
+  </component>
+</application>

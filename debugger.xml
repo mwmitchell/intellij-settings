@@ -81,9 +81,7 @@
     </filter>
   </component>
   <component name="XDebuggerSettings">
-    <data-views>
-      <option name="showLibraryStackFrames" value="false" />
-    </data-views>
+    <data-views />
     <general>
       <unmute-on-stop>true</unmute-on-stop>
     </general>

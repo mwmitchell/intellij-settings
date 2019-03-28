@@ -1,0 +1,9 @@
+<application>
+  <component name="ProtobufSettings">
+    <option name="includePaths">
+      <list>
+        <option value="$USER_HOME$/Projects/Fusion/fusion-connectors/grpc/proto/build/protos" />
+      </list>
+    </option>
+  </component>
+</application>

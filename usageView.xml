@@ -5,5 +5,6 @@
   <component name="UsageViewSettings">
     <option name="IS_FILTER_DUPLICATED_LINE" value="false" />
     <option name="FLATTEN_MODULES" value="false" />
+    <option name="GROUP_BY_MODULE" value="false" />
   </component>
 </application>
